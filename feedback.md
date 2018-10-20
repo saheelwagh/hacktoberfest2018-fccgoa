@@ -1,20 +1,20 @@
-#feedback form for the workshop, github style.
+# back form for the workshop, github style.
 
 Format(use the hash symbols as indicated, use 'no. point-text' format while listing points:
-###Your Name
-####Prior familiarity with git (specify in months, 0 if git virgin)
-#####What I liked about the workshop
+### Your Name
+#### Prior familiarity with git (specify in months, 0 if git virgin)
+##### What I liked about the workshop
 1. Liked this
 2. Liked that
 3. Liked blah
 
-#####Room for improvement for the next workshop
+##### Room for improvement for the next workshop
 1. Disliked this
 2. This could've done better
 3. And so on.
 
 
-##Start adding your feedback below. Do not modify the above part.
+## Start adding your feedback below. Do not modify the above part.
 
 Sample feedback: ---------
 
