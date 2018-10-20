@@ -1,8 +1,9 @@
 # feedback form for the workshop, github style.
 
-Format(leave a space after the hash symbols and after a dot which follows a number in list:
+Format(leave a space after the hash symbols and after a dot which follows a number in list: </br>  
+
 ###Your Name
-####Prior familiarity with git (specify in months, 0 if git virgin)
+####Prior familiarity with git: (specify in months, 0 if git virgin)
 #####What I liked about the workshop
 1. Liked this
 2. Liked that
@@ -19,6 +20,7 @@ Format(leave a space after the hash symbols and after a dot which follows a numb
 Sample feedback: ---------
 
 ### Saeish Volvaikar
+####Prior familiarity with git : 0 months
 #### What I liked about the workshop
 1. I'll get a cool t shirt. I saw Saheel's t shirt from 2017 is still intact despite excessive use.
 2. I'll get to use git in my final year project
